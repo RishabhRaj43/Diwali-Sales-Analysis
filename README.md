@@ -12,7 +12,9 @@ Comparison of sales across different regions
 **Technologies Used**
 
 Programming Languages: Python
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
 Tools: Jupyter Notebook, Excel
 
 **Installation**
