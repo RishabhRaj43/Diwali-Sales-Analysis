@@ -1,8 +1,10 @@
 # Diwali Sales Analysis
 
+
 **Overview**
 
 This project provides an analysis of sales data for Diwali. It includes visualizations and insights to understand sales patterns, customer behavior, and product performance during the Diwali season.
+
 
 **Features**
 
@@ -13,6 +15,7 @@ This project provides an analysis of sales data for Diwali. It includes visualiz
 -Customer segmentation insights
 
 -Comparison of sales across different regions
+
 
 
 **Technologies Used**
