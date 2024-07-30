@@ -52,7 +52,7 @@ Diwali Sales Data.csv: Contains sales transactions with fields such as User id, 
 
 -Sales Trends: Visualizations of sales over time.
 
--Age: Most of the buyers are females and even purchasing power of females are greater than men.
+-Gender: Most of the buyers are females and even purchasing power of females are greater than men.
 
 -Top-Selling Products: Most of the sold products are from Food, Clothing and Electronics category.
 
